@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Recipi](https://recipie-j65d.onrender.com/)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://ajdinhusetovic.com/](https://ajdinhusetovic.com/)
 
