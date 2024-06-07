@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajdin Husetovic</h1>
 <h3 align="center">A passionate Full Stack Developer from Bosnia and Herzegovina.</h3>
 
-- 🔭 I’m currently working on [Recipi](https://recipie-j65d.onrender.com/)
-
-- 🌱 I’m currently learning **C#**
-
 - 👨‍💻 All of my projects are available at [https://ajdinhusetovic.com/](https://ajdinhusetovic.com/)
 
 - 📫 How to reach me **ahusetovic1@gmail.com**
