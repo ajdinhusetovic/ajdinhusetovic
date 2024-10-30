@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajdin Husetovic</h1>
 <h3 align="center">A passionate Full Stack Developer from Bosnia and Herzegovina.</h3>
 
-- 👨‍💻 All of my projects are available at [https://ajdinhusetovic.com/](https://ajdinhusetovic.com/)
+- 👨‍💻 All of my projects are available at [https://ajdinhusetovic.dev/](https://ajdinhusetovic.dev/)
 
 - 📫 How to reach me **ahusetovic1@gmail.com**
 
